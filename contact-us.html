@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact | BRIGHT DENT</title>
+  <link rel="icon" href="./Images/fav-icon.png">
+  <link rel="stylesheet" href="./Css/bootstrap.min.css">
+  <link rel="stylesheet" href="./Css/slick.css">
+  <link rel="stylesheet" href="./Css/slick-theme.css">
+  <link rel="stylesheet" href="./Css/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+  <link rel="stylesheet" href="./Css/Responsive.css">
+</head>
+
+<body>
+<!-- ----------------------------------------------------------------nav---------------------------------------------------------------- -->
+  <nav class="navbar navbar-expand-lg navbar-light ">
+    <div class="container-fluid p-0">
+      <a class="" href="./index.html"><img class="img-fluid nav-logo" src="./images/brighDent-logo.png"
+          alt="bight-dent-logo"></a>
+      <button class="navbar-toggler rounded-3 bg-light" type="button" data-bs-toggle="collapse"
+        data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false"
+        aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+        <ul class="navbar-nav d-flex mx-auto">
+          <li class="nav-item">
+            <a class="nav-link " aria-current="page" href="./index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link " href="/about-us.html">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link " href="./our-service.html">Service</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link " href="./gallery.html">Gallery</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="./contact-us.html">Contact Us</a>
+          </li>
+        </ul>
+        <div class="book">
+          <a href="./index.html#book-appointment">Book an Appointment</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+<!-- ----------------------------------------------------------------appoint-ment---------------------------------------------------------------- -->
+  <section class="Appointment appointment-contact" id="appintment">
+    <div class="container">
+      <h2 class="h2 text-center"><span class="blue">Get in Touch </span>with us</h2>
+      <p class="p descirption text-center">Get in touch with us today for expert dental care—Call, Message, email, or
+        book your appointment online!</p>
+      <div class="row">
+        <div class="col-lg-7 col-12 left-part">
+          <form action="contact_form_handler.php" method="POST" class="validate" id="appointmentFor">
+            <div class="row g-3">
+              <div class="col-md-6 pe-3 ps-0">
+                <label for="fname" class="form-label pb-2 m-0">First Name*</label>
+                <input name="full_name" id="fname" type="text" class="form-control" placeholder="Enter Your First Name" required>
+              </div>
+              <div class="col-md-6 ps-0 for-padd">
+                <label for="lname" class="form-label pb-2 m-0">Last Name*</label>
+                <input name="lname" id="lname" type="text" class="form-control" placeholder="Enter Your Last Name" required>
+              </div>
+              <div class="col-md-6 pe-3 ps-0">
+                <label for="pnum" class="form-label pb-2 m-0">Phone Number*</label>
+                <input name="ph-no" id="pnum" type="tel" class="form-control" placeholder="Enter Phone Number" pattern="[0-9]{10}"
+                  required>
+              </div>
+              <div class="col-md-6 ps-0 for-padd">
+                <label for="mail" class="form-label pb-2 m-0">Email*</label>
+                <input name="email" id="mail" type="email" class="form-control" placeholder="Enter Your Email" required>
+              </div>
+              <div class="col-12 ps-0 for-padd">
+                <label for="sub" class="form-label pb-2 m-0">Subject*</label>
+                <input name="subject" id="sub" type="text" class="form-control" placeholder="Enter here" required>
+              </div>
+              <div class="col-12 notes for-padd">
+                <label for="notice" class="form-label pb-2 m-0">Your message*</label>
+                <textarea name="message" id="notice" class="form-control" rows="5" placeholder="Enter here" required></textarea>
+              </div>
+              <div class="book">
+                <button type="submit" class="btn">
+                  Send Message
+                </button>
+              </div>
+            </div>
+          </form>
+        </div>
+        <div class="col-lg-5 col-12 right-part">
+          <div class="clinic-hours">
+            <p class="p add">Address</p>
+            <div class="clinic-add d-flex align-items-center gap-3">
+              <img src="./Images/clinic-hour-location.png" alt="location-img">
+              <p class="p address-info">101, Shivani Complex, Kaliawadi, Navsari, Gujarat -396445</p>
+            </div>
+            <p class="p add">Contact</p>
+            <div class="clinic-add pb-1 d-flex align-items-center gap-3">
+              <i class="fa-solid fa-phone" style="color: #ffffff;"></i>
+              <p class="p address-info">+919277008800 , +919726168133</p>
+            </div>
+            <div class="clinic-add d-flex align-items-center gap-3">
+              <i class="fa-solid fa-envelope" style="color: #ffffff;"></i>
+              <p class="p address-info">example@gmail.com</p>
+            </div>
+            <h6 class="h6 clinic cli-contact">Clinic Hours</h6>
+            <pre class="p">Monday to Friday  :    09:00 - 22:00</pre>
+            <pre class="p">Saturday                 :    11:00 - 20:00</pre>
+            <pre class="p">Sunday                    :    Closed</pre>
+            <p class="p stay">Stay Connected</p>
+            <div class="refrence-contact d-flex">
+              <a target="_blank" href="https://www.facebook.com/profile.php?id=61574803197974"><i
+                  class="fa-brands fa-facebook-f  face"></i></a>
+              <a target="_blank" href="https://www.instagram.com/brightdent2025/"><i
+                  class="fa-brands fa-instagram bord insta"></i></a>
+              <a target="_blank" href="#"><i class="fa-brands fa-x-twitter bord thread"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+<!-- ----------------------------------------------------------------cta---------------------------------------------------------------- -->
+  <section class="cta-sec">
+    <div class="container p-0">
+      <div class="row align-items-center cta">
+        <p class="p col-9">Schedule your appointment today for expert dental care and a healthier smile!</p>
+        <div class="book p-0 col-3">
+          <a class="" href="./index.html#book-appointment">Book an Appointment</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="loaction-sec">
+    <div class="container">
+      <h2 class="h2">Locate <span class="blue">BrightDent</span></h2>
+      <iframe class="contact-map"
+        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9777.26119030408!2d72.94190966679395!3d20.954491110572423!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6dc9e0301773abd7%3A0x882ff5c40082c2de!2sEk%20Pehel%20Foundation!5e0!3m2!1sen!2sin!4v1743248653479!5m2!1sen!2sin"
+        style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+  </section>
+<!-- ----------------------------------------------------------------footer---------------------------------------------------------------- -->
+  <footer>
+    <section class="footer">
+      <div class="container p-0">
+        <img src="./Images/fav-icon.png" class="img-fluid footer-bg" alt="bright-dent-logo">
+        <div class="row">
+          <div class="col-lg-4 col-12">
+            <img src="./Images/brighDent-logo.png" alt="" class="img-fluid pb-4">
+            <p class="p descirption">Bright Dent is a leading dental clinic located at Navsari, Gujarat, providing
+              expert dental care with advanced treatments in a comfortable setting.</p>
+            <p class="p locate">Locate on map:</p>
+            <iframe class="map"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3726.014068158638!2d72.93937527502926!3d20.951950180678224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6dc9e0301773abd7%3A0x882ff5c40082c2de!2sEk%20Pehel%20Foundation!5e0!3m2!1sen!2sin!4v1743174184703!5m2!1sen!2sin"
+              style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div>
+          <div class="col-lg-8 col-12 right-part">
+            <div class="row for-link">
+              <div class="col-sm-3 col-6">
+                <h6 class="h6 quick">Quick Links</h6>
+                <ul class="quick-list">
+                  <li><a href="./index.html"> Home </a></li>
+                  <li><a href="./about-us.html"> About Us </a></li>
+                  <li><a href="./our-service.html"> Services </a></li>
+                  <li><a href="./gallery.html"> Gallery </a></li>
+                  <li><a href="./index.html#testimonials"> Testimonials </a></li>
+                  <li><a href="./contact-us.html"> Contact Us </a></li>
+                  <li><a href="./index.html#book-appointment"> Book Appointment </a></li>
+                </ul>
+              </div>
+              <div class="col-sm-3 col-6">
+                <h6 class="h6 quick">Our Services</h6>
+                <ul class="quick-list">
+                  <li> <a href="./our-service.html"> General Dentistry</a></li>
+                  <li> <a href="./our-service.html"> Teeth Whitening</a></li>
+                  <li> <a href="./our-service.html"> Dental Implants</a></li>
+                  <li> <a href="./our-service.html"> Orthodontics</a></li>
+                  <li> <a href="./our-service.html"> Oral Surgery</a></li>
+                  <li> <a href="./our-service.html"> Smile Makeover</a></li>
+                </ul>
+              </div>
+              <div class="col-sm-6 col-12">
+                <h6 class="h6 quick">Contact Us</h6>
+                <div class="flex-div d-flex gap-3 align-items-center">
+                  <img src="./Images/location-icon.png" class="img-fluid " alt="location-logo">
+                  <p class="p address">101, Shivani Complex, Kaliawadi, Navsari, Gujarat -396445</p>
+                </div>
+                <div class="flex-div d-flex gap-3 align-items-center">
+                  <i class="fa-solid fa-envelope icon"></i>
+                  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"
+                    class=" address text-decoration-none">brightdent2025@gmail.com</a>
+                </div>
+                <div class="flex-div d-flex gap-3 align-items-center">
+                  <i class="fa-solid fa-phone icon"></i>
+                  <p class="p address">+91 97261 68133 / 92770 08800</p>
+                </div>
+                <p class="p c-w-s">Connect with us</p>
+                <div class="refrence d-flex">
+                  <a target="_blank" href="https://www.facebook.com/profile.php?id=61574803197974"><i
+                      class="fa-brands fa-facebook-f  face"></i></a>
+                  <a target="_blank" href="https://www.instagram.com/brightdent2025/"><i
+                      class="fa-brands fa-instagram bord insta"></i></a>
+                  <a target="_blank" href="./gallery.html"><i class="fa-brands fa-x-twitter bord thread"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <hr class="footer-line">
+        <div class="d-flex gap-2 justify-content-between">
+          <p class="p c-p"> Copyright & Disclaimer © 2025 Bright Dent | All Rights Reserved. </p>
+          <p class="p c-p"> Privacy Policy | Terms & Conditions</p>
+        </div>
+      </div>
+    </section>
+  </footer>
+  <script src="./Js/bootstrap.bundle.min.js"></script>
+  <script src="./Js/slick.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="./Js/slick.min.js"></script>
+  <script src="./Js/slider.js"></script>
+</body>
+
+</html>

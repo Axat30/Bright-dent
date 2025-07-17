@@ -1,0 +1,2884 @@
+@media (max-width:1200px) {
+
+    /* ------------------------------------------------------------------nav------------------------------------------------------------------ */
+    .navbar {
+        padding: 20px 70px;
+    }
+
+    .navbar ul li:not(:last-child) {
+        padding: 0 40px 0 0;
+    }
+
+    .navbar .book a,
+    .Appointment .book a,
+    .service-sec .cta .book a,
+    .cta-sec .cta .book a {
+        font-size: 15px;
+        line-height: 25px;
+        padding: 10px 20px;
+    }
+
+    /* ------------------------------------------------------------------hero------------------------------------------------------------------ */
+    .hero .slider-part .row {
+        padding: 0px 0 0 80px;
+    }
+
+    .hero .row .left-part {
+        padding: 160px 0 215px;
+    }
+
+    .hero .your-smile {
+        font-size: 19px;
+        line-height: 29px;
+    }
+
+    .hero .row .descirption {
+        max-width: 539px;
+    }
+
+    .hero .slider-part .hero-doctor {
+        bottom: -101px;
+        right: -60px;
+        max-height: 740px;
+    }
+
+    .hero .slider-part .hero-doctor2 {
+        bottom: -32px;
+        right: -41px;
+        max-height: 710px;
+    }
+
+    .hero .slider-part .hero-doctor3 {
+        bottom: 0px;
+        right: -90px;
+        max-height: 653px;
+    }
+
+    .hero .slider-part .hero-doctor4 {
+        position: absolute;
+        bottom: 0px;
+        right: -55px;
+        max-height: 695px;
+    }
+
+    .hero .row .heading {
+        font-size: 46px;
+        line-height: 56px;
+    }
+
+    /* ------------------------------------------------------------------home-about------------------------------------------------------------------ */
+    .home-about {
+        padding: 60px 0;
+    }
+
+    .home-about h2 {
+        font-size: 42px;
+        line-height: 52px;
+    }
+
+    .home-about .descirption {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .home-about ul li {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .home-about .big-teeth {
+        bottom: 15px;
+        right: 18px;
+        max-height: 400px;
+    }
+
+    .home-about .small-teeth {
+        bottom: 22px;
+        right: 320px;
+        max-height: 230px;
+    }
+
+    .home-about .stars {
+        left: -15px;
+        max-height: 125px;
+    }
+
+    /* ------------------------------------------------------------------home-service------------------------------------------------------------------ */
+    .home-services {
+        padding: 60px 150px;
+        background-color: var(--sectiion-color);
+    }
+
+    .home-services .h2 {
+        font-size: 35px;
+        line-height: 45px;
+        max-width: 493px;
+    }
+
+    .home-services .h3 {
+        font-size: 26px;
+        line-height: 36px;
+    }
+
+    .home-services .generel-batch {
+        top: 114px;
+        max-height: 90px;
+    }
+
+    .home-services .General-Dentistry {
+        font-size: 20px;
+        line-height: 30px;
+        padding: 65px 0 14px 35px;
+    }
+
+    .home-services .descirption {
+        font-size: 17px;
+        line-height: 27px;
+    }
+
+    .home-services .more a {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .home-services .more {
+        padding: 0 0 40px 35px;
+    }
+
+    .home-services .main-service-card {
+        padding: 0 20px 0 0;
+    }
+
+    /* ------------------------------------------------------------------why-choose------------------------------------------------------------------ */
+    .why-choose {
+        padding: 60px 0;
+    }
+
+    .why-choose .h5 {
+        font-size: 26px;
+        line-height: 36px;
+    }
+
+    .why-choose .h2 {
+        font-size: 46px;
+        line-height: 56px;
+        padding: 0 71px 50px;
+    }
+
+    .why-choose .why-choose-img {
+        max-width: 400px;
+    }
+
+    .why-choose .descirption {
+        font-size: 16px;
+        line-height: 26px;
+        padding: 0 3px 26px 0;
+    }
+
+    .why-choose .right-part .quantity {
+        font-size: 42px;
+        line-height: 52px;
+    }
+
+    .why-choose ul li {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .why-choose .right-part .quality {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .why-choose .left-part .stars {
+        bottom: -80px;
+        left: -65px;
+    }
+
+    /* ------------------------------------------------------------------our-team------------------------------------------------------------------ */
+    .our-team {
+        padding: 60px 0;
+    }
+
+    .our-team .h5 {
+        font-size: 26px;
+        line-height: 36px;
+    }
+
+    .our-team .h2 {
+        font-size: 54px;
+        line-height: 64px;
+        padding: 0 174px 40px;
+    }
+
+    .our-team .h6 {
+        font-size: 19px;
+        line-height: 29px;
+        padding: 28px 0 5px;
+    }
+
+    /* ------------------------------------------------------------------book-appointment------------------------------------------------------------------ */
+    .Appointment {
+        padding: 60px 0;
+    }
+
+    .Appointment .h5 {
+        font-size: 26px;
+        line-height: 36px;
+    }
+
+    .Appointment .notes {
+        padding: 0 0 30px;
+    }
+
+    .Appointment .appoint-info {
+        font-size: 16px;
+        line-height: 26px;
+        padding: 0 10px 26px 0;
+    }
+
+    .Appointment .right-part .clinic-hours .timing p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .Appointment .right-part .clinic-hours .clinic {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .Appointment .right-part .callpart-right .emergency {
+        font-size: 24px;
+        line-height: 34px;
+    }
+
+    /* ------------------------------------------------------------------before-after------------------------------------------------------------------ */
+    .before-after {
+        padding: 60px 0;
+    }
+
+    .before-after .h2 {
+        font-size: 50px;
+        line-height: 60px;
+        padding: 0 0 45px;
+    }
+
+    /* ------------------------------------------------------------------testimonials------------------------------------------------------------------ */
+    .testimonials {
+        padding: 60px 0;
+    }
+
+    .testimonials .h2 {
+        font-size: 41px;
+        line-height: 51px;
+        padding: 0 0 55px;
+    }
+
+    .testimonials .sub-review-card {
+        padding: 30px;
+    }
+
+    .testimonials .sub-review-card .review-line {
+        font-size: 20px;
+        line-height: 30px;
+        padding: 20px 0;
+    }
+
+    .testimonials .sub-review-card .review-info {
+        font-size: 17px;
+        line-height: 27px;
+        padding: 0 17px 30px 0;
+    }
+
+    .testimonials .h6 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .testimonials .satisfy {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    /* ------------------------------------------------------------------footer------------------------------------------------------------------ */
+    .footer .quick {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .footer {
+        padding: 60px 0;
+    }
+
+    .footer .quick-list li a {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .footer .right-part .address {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .footer .descirption {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .footer .c-p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .footer .footer-bg {
+        max-height: 419px;
+    }
+
+    /* -----------------------------------------------------------------about-page -----------------------------------------------------------------*/
+    /* -----------------------------------------------------------------about -----------------------------------------------------------------*/
+    .our-team .descirption {
+        max-width: 800px;
+        display: block;
+        margin: 0 auto;
+        padding: 0 0 50px;
+    }
+
+    /* -----------------------------------------------------------------trust -----------------------------------------------------------------*/
+    .trust {
+        padding: 60px 0;
+    }
+
+    /* -----------------------------------------------------------------our-team -----------------------------------------------------------------*/
+    /* -----------------------------------------------------------------cta -----------------------------------------------------------------*/
+
+    .cta-sec {
+        padding: 60px 0;
+        background-color: var(--sectiion-color);
+    }
+
+    .for-pad {
+        padding: 0 0 100px;
+    }
+
+    .cta-sec .cta {
+        padding: 45px 60px;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .cta-sec .cta .p {
+        font-size: 15px;
+        line-height: 25px;
+        padding: 0 25px 0 0;
+    }
+
+    .cta-sec .cta .book a {
+        font-size: 13px;
+        line-height: 23px;
+        padding: 10px 8px;
+    }
+
+    .appointment-contact .right-part .refrence-contact {
+        gap: 25px;
+    }
+
+    .loaction-sec {
+        padding: 60px 0;
+    }
+
+    /* -----------------------------------------------------------------works -----------------------------------------------------------------*/
+    .works {
+        padding: 60px 0;
+    }
+
+    .works .steps .h5 {
+        font-size: 17px;
+        line-height: 27px;
+        max-width: 170px;
+    }
+
+    .works .steps .p {
+        font-size: 17px;
+        line-height: 27px;
+    }
+
+    .works .right-line::after {
+        width: 400%;
+        left: 60px;
+        top: 48%;
+    }
+
+    /* ---------------------------------------------------------------hero-contact--------------------------------------------------------------- */
+    .Appointment .h2 {
+        font-size: 50px;
+        line-height: 60px;
+        padding: 0 00px 40px;
+        max-width: 677px;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .appointment-contact .descirption {
+        padding: 0 0 45px;
+        max-width: 700px;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .Appointment .left-part {
+        padding: 0 65px 0 0;
+    }
+
+    .appointment-contact .right-part .address-info {
+        font-size: 15px;
+        line-height: 25px;
+        padding: 0 0px 0 0;
+    }
+
+    .appointment-contact .right-part pre {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .appointment-contact .right-part .clinic-hours {
+        padding: 45px 45px;
+    }
+
+    .appointment-contact .right-part .stay {
+        font-size: 16px;
+        line-height: 30px;
+        padding: 20px 0 15px;
+    }
+
+    .appointment-contact .right-part .refrence-contact a {
+        padding: 5px 11px;
+    }
+
+    /* ---------------------------------------------------------------get in touch--------------------------------------------------------------- */
+    /* ---------------------------------------------------------------cta--------------------------------------------------------------- */
+    /* ---------------------------------------------------------------map-location--------------------------------------------------------------- */
+    /* --------------------------------------------------------service-hero-------------------------------------------------------- */
+    .service-banner .service-hero .h1 {
+        font-size: 54px;
+        line-height: 64px;
+    }
+
+    .service-banner .service-hero {
+        padding: 100px 500px 115px 30px;
+    }
+
+    .service-banner .service-hero .h5 {
+        font-size: 26px;
+        line-height: 36px;
+        padding: 10px 30px;
+    }
+
+    .service-sec .descirption {
+        padding: 0 9px 20px 35px;
+    }
+
+    .service-sec .for-bot {
+        padding-bottom: 30px;
+    }
+
+    /* --------------------------------------------------------service-list-------------------------------------------------------- */
+}
+
+@media (max-width:1024px) {
+
+    /* ------------------------------------------------------------------nav------------------------------------------------------------------ */
+    .navbar .nav-logo {
+        max-width: 200px;
+    }
+
+    .navbar ul li:not(:last-child) {
+        padding: 0 20px 0 0;
+    }
+
+    .navbar ul li .nav-link {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .navbar .book a,
+    .Appointment .book a,
+    .service-sec .cta .book a,
+    .cta-sec .cta .book a {
+        padding: 10px 15px;
+    }
+
+    /* ------------------------------------------------------------------hero------------------------------------------------------------------ */
+    .hero .buttons {
+        gap: 40px;
+    }
+
+    .hero .slider-part .hero-doctor {
+        bottom: -30px;
+        right: -82px;
+        max-height: 663px;
+    }
+
+    .hero .slider-part .hero-doctor2 {
+        bottom: -29px;
+        right: -77px;
+        max-height: 687px;
+    }
+
+    .hero .slider-part .hero-doctor4 {
+        bottom: -30px;
+        right: -122px;
+        max-height: 678px;
+    }
+
+    .hero .book a {
+        padding: 10px 20px;
+    }
+
+    .hero .slider-part .hero-doctor3 {
+        bottom: 0px;
+        right: -148px;
+        max-height: 653px;
+    }
+
+    .hero .your-smile {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .hero .row .left-part {
+        padding: 134px 0 210px;
+    }
+
+    /* ------------------------------------------------------------------home-about------------------------------------------------------------------ */
+    .home-about .big-teeth {
+        bottom: 15px;
+        right: 12px;
+        max-height: 380px;
+    }
+
+    .home-about .small-teeth {
+        bottom: 22px;
+        right: 294px;
+        max-height: 200px;
+    }
+
+    .home-about .stars {
+        left: 32px;
+        max-height: 125px;
+    }
+
+    /* ------------------------------------------------------------------home-service------------------------------------------------------------------ */
+    .home-services {
+        padding: 60px 100px;
+    }
+
+    .home-services .book a {
+        font-size: 15px;
+        line-height: 25px;
+        padding: 10px 25px;
+    }
+
+    .home-services .descirption {
+        font-size: 15px;
+        padding: 0 12px 20px 35px;
+        line-height: 25px;
+    }
+
+    .home-services .General-Dentistry {
+        font-size: 19px;
+        line-height: 29px;
+        padding: 60px 0 14px 35px;
+    }
+
+    /* ------------------------------------------------------------------why-choose------------------------------------------------------------------ */
+    .why-choose {
+        padding: 60px 60px;
+    }
+
+    .why-choose .why-choose-img {
+        max-width: 385px;
+    }
+
+    .why-choose .left-part .stars {
+        bottom: -78px;
+        left: -56px;
+    }
+
+    /* ------------------------------------------------------------------our-team------------------------------------------------------------------ */
+    .our-team .h6 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .our-team .doc-type {
+        font-size: 17px;
+        line-height: 27px;
+        padding: 0 0 30px;
+    }
+
+    /* ------------------------------------------------------------------book-appointment------------------------------------------------------------------ */
+    .Appointment form .form-label {
+        font-size: 19px;
+        line-height: 29px;
+    }
+
+    .Appointment form .form-control::placeholder {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    /* ------------------------------------------------------------------before-after------------------------------------------------------------------ */
+    .before-after .h5 {
+        font-size: 26px;
+        line-height: 36px;
+    }
+
+    .before-after .h2 {
+        font-size: 46px;
+        line-height: 56px;
+        padding: 0 0 45px;
+    }
+
+    .before-after .info {
+        font-size: 18px;
+        line-height: 28px;
+        padding: 45px 0 0;
+    }
+
+    /* ------------------------------------------------------------------testimonials------------------------------------------------------------------ */
+    .testimonials .h5 {
+        font-size: 26px;
+        line-height: 36px;
+    }
+
+    .testimonials .h2 {
+        font-size: 40px;
+        line-height: 50px;
+        padding: 0 0 50px;
+    }
+
+    /* ------------------------------------------------------------------footer------------------------------------------------------------------ */
+    /* -----------------------------------------------------------------about-page -----------------------------------------------------------------*/
+    /* -----------------------------------------------------------------about -----------------------------------------------------------------*/
+    .trust {
+        padding: 50px 0;
+    }
+
+    /* -----------------------------------------------------------------trust -----------------------------------------------------------------*/
+    /* -----------------------------------------------------------------our-team -----------------------------------------------------------------*/
+    /* -----------------------------------------------------------------cta -----------------------------------------------------------------*/
+    .cta-sec .cta {
+        padding: 40px 50px;
+    }
+
+    /* -----------------------------------------------------------------works -----------------------------------------------------------------*/
+    /* ---------------------------------------------------------------hero-contact--------------------------------------------------------------- */
+    .Appointment .left-part {
+        padding: 0 40px 0 0;
+    }
+
+    .appointment-contact .right-part .clinic-add {
+        padding: 0 0 30px;
+    }
+
+    /* ---------------------------------------------------------------get in touch--------------------------------------------------------------- */
+    /* ---------------------------------------------------------------cta--------------------------------------------------------------- */
+    /* ---------------------------------------------------------------map-location--------------------------------------------------------------- */
+
+    /* --------------------------------------------------------service-hero-------------------------------------------------------- */
+    .service-banner .service-hero .h1 {
+        font-size: 45px;
+        line-height: 55px;
+    }
+
+    .service-banner .service-hero {
+        padding: 100px 471px 115px 34px;
+    }
+
+    /* --------------------------------------------------------service-list-------------------------------------------------------- */
+    .home-services .generel-batch {
+        top: 105px;
+        max-height: 76px;
+    }
+
+    .for-pad {
+        padding-top: 0;
+    }
+
+    .loaction-sec .contact-map {
+        width: 100%;
+        height: 400px;
+        border-radius: 20px;
+    }
+}
+
+@media (max-width:992px) {
+
+    /* ------------------------------------------------------------------nav------------------------------------------------------------------ */
+    .navbar .book {
+        margin: 20px 0 0;
+    }
+
+    /* ------------------------------------------------------------------hero------------------------------------------------------------------ */
+    .hero .row .descirption {
+        padding: 20px 22px 61px 0;
+    }
+
+    /* ------------------------------------------------------------------home-about------------------------------------------------------------------ */
+    .home-about {
+        padding: 50px 0;
+    }
+
+    .home-about h2 {
+        font-size: 34px;
+        line-height: 44px;
+    }
+
+    .home-about .about-heading {
+        font-size: 26px;
+        line-height: 36px;
+    }
+
+    .home-about .big-teeth {
+        display: block;
+        margin: 0 auto;
+        max-height: 359px;
+        position: static;
+    }
+
+    .home-about .small-teeth {
+        bottom: 5px;
+        right: 450px;
+        max-height: 187px;
+    }
+
+    .home-about .stars {
+        left: 12%;
+        top: 5%;
+        max-height: 125px;
+    }
+
+    /* ------------------------------------------------------------------home-service------------------------------------------------------------------ */
+    .home-services {
+        padding: 50px 85px;
+    }
+
+    /* ------------------------------------------------------------------why-choose------------------------------------------------------------------ */
+    .why-choose .h2 {
+        font-size: 44px;
+        line-height: 54px;
+        padding: 0 0px 50px;
+        padding: 0 0px 30px;
+        text-align: left;
+    }
+
+    .why-choose .h5 {
+        font-size: 26px;
+        line-height: 36px;
+        text-align: left;
+    }
+
+    .why-choose {
+        padding: 50px 60px;
+    }
+
+    .why-choose .descirption {
+        font-size: 15px;
+        line-height: 25px;
+        padding: 0 0px 26px 0;
+    }
+
+    .why-choose .why-choose-img {
+        max-width: 416px;
+    }
+
+    .why-choose .descirption {
+        font-size: 17px;
+        line-height: 27px;
+        padding: 40px 0px 26px 0;
+    }
+
+    .why-choose .left-part .stars {
+        bottom: -25px;
+        left: 50px;
+    }
+
+    .why-choose .left-part {
+        padding: 0 0 0;
+    }
+
+    .why-choose .right-part {
+        padding: 0 0 0 0px;
+    }
+
+    .why-choose .left-part .stars {
+        bottom: -25px;
+        left: 386px;
+    }
+
+    /* ------------------------------------------------------------------our-team------------------------------------------------------------------ */
+    .our-team {
+        padding: 50px 0;
+    }
+
+    .our-team .h2 {
+        padding: 0 90px 40px;
+    }
+
+    .our-team .for-mid {
+        padding-bottom: 20px;
+    }
+
+    .our-team .h6 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+
+    .our-team .doc-type {
+        font-size: 19px;
+        line-height: 29px;
+    }
+
+    /* ------------------------------------------------------------------book-appointment------------------------------------------------------------------ */
+    .Appointment {
+        padding: 50px 0;
+    }
+
+    .Appointment .h2 {
+        padding: 0 0px 50px;
+    }
+
+    .Appointment .left-part {
+        padding: 0 0px 0 0;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .Appointment .appoint-info {
+        padding: 30px 0px 26px 0;
+        text-align: center;
+    }
+
+    .Appointment .right-part .call-part {
+        justify-content: center;
+    }
+
+    .Appointment .book {
+        display: flex;
+        justify-content: center;
+    }
+
+    /* ------------------------------------------------------------------before-after------------------------------------------------------------------ */
+    .before-after {
+        padding: 50px 0;
+    }
+
+    .before-after .h2 {
+        font-size: 44px;
+        line-height: 54px;
+        padding: 0 0 45px;
+    }
+
+    /* ------------------------------------------------------------------testimonials------------------------------------------------------------------ */
+    .testimonials {
+        padding: 50px 15px;
+    }
+
+    .testimonials .review-card {
+        padding: 0 0px 0 0;
+    }
+
+    /* ------------------------------------------------------------------footer------------------------------------------------------------------ */
+    .footer .footer-bg {
+        position: absolute;
+        top: 17%;
+        left: 24%;
+        opacity: 10%;
+        z-index: -1;
+        max-height: 53%;
+    }
+
+    .footer .quick {
+        font-size: 22px;
+        line-height: 32px;
+        padding: 20px 0 0;
+    }
+
+    .footer .right-part .col-6 .h6 {
+        padding: 20px 0 16px;
+    }
+
+    /* ------------------------------------------------------------------.work ------------------------------------------------------------------ */
+    .works .for-bottom-md {
+        padding-bottom: 20px;
+    }
+
+    .works .sub-step {
+        border: 1px solid #000;
+        border-radius: 10px;
+        padding: 10px;
+    }
+
+    .works .right-line::after {
+        width: 0;
+    }
+
+    /* ---------------------------------------------------------------hero-contact--------------------------------------------------------------- */
+    .Appointment .left-part {
+        padding: 0 0 30px;
+    }
+
+    .appointment-contact .right-part .address-info {
+        font-size: 20px;
+        line-height: 30px;
+        padding: 0 186px 0 0;
+    }
+
+    .appointment-contact .right-part .add {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .Appointment .right-part .clinic-hours .clinic {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .appointment-contact .right-part pre {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .appointment-contact .right-part .refrence-contact a {
+        padding: 8px 13px;
+    }
+
+    .vision .vis-mision {
+        padding: 25px 25px;
+    }
+
+    .vision .vis-mision .descirption {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .vision .vis-mision .h5 {
+        font-size: 26px;
+        line-height: 36px;
+    }
+
+    .vision .vis-mision .logo-vis-mis {
+        max-width: 60px;
+    }
+
+    /* ---------------------------------------------------------------get in touch--------------------------------------------------------------- */
+    /* ---------------------------------------------------------------cta--------------------------------------------------------------- */
+    /* ---------------------------------------------------------------map-location--------------------------------------------------------------- */
+    .loaction-sec .contact-map {
+        width: 100%;
+        height: 400px;
+    }
+
+    .loaction-sec .h2 {
+        font-size: 45px;
+        line-height: 55px;
+        padding: 0px 0 40px;
+    }
+
+    /* --------------------------------------------------------service-hero-------------------------------------------------------- */
+    .service-banner .service-hero {
+        padding: 100px 454px 105px 34px;
+    }
+
+    /* --------------------------------------------------------service-list-------------------------------------------------------- */
+    .service-sec .for-bot {
+        padding-bottom: 20px;
+    }
+
+}
+
+@media (max-width:768px) {
+    /* ------------------------------------------------------------------nav------------------------------------------------------------------ */
+
+    /* ------------------------------------------------------------------hero------------------------------------------------------------------ */
+    .hero .slider-part .row {
+        padding: 0px 0 0 50px;
+    }
+
+    .hero .row .left-part {
+        padding: 60px 0 150px;
+    }
+
+    .hero .your-smile {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .hero .row .heading {
+        font-size: 34px;
+        line-height: 44px;
+    }
+
+    .hero .row .descirption {
+        padding: 20px 22px 55px 0;
+    }
+
+    .hero .buttons {
+        gap: 30px;
+    }
+
+    .hero .book a {
+        padding: 10px 10px;
+        font-size: 13px;
+        line-height: 23px;
+    }
+
+    .hero .contact a {
+        padding: 10px 25px;
+    }
+
+    .hero .slider-part .hero-doctor {
+        bottom: -50px;
+        right: -100px;
+        max-height: 551px;
+    }
+
+    .hero .slider-part .hero-doctor2 {
+        bottom: 0px;
+        right: -72px;
+        max-height: 535px;
+    }
+
+    .hero .slider-part .hero-doctor3 {
+        bottom: -26px;
+        right: -116px;
+        max-height: 500px;
+    }
+
+    .hero .slider-part .hero-doctor4 {
+        bottom: -26px;
+        right: -115px;
+        max-height: 565px;
+    }
+
+    /* ------------------------------------------------------------------home-about------------------------------------------------------------------ */
+    .home-about .big-teeth {
+        display: block;
+        margin: 0 auto;
+        max-height: 500px;
+        position: static;
+        padding: 0 0 0 60px;
+    }
+
+    .home-about .small-teeth {
+        top: 232px;
+        left: -15px;
+        max-height: 210px;
+    }
+
+    .home-about .stars {
+        left: 20px;
+        max-height: 125px;
+    }
+
+    .home-about .about-heading {
+        font-size: 26px;
+        line-height: 36px;
+        padding: 20px 0 0;
+        text-align: center;
+    }
+
+    .home-about h2 {
+        font-size: 34px;
+        line-height: 44px;
+        padding: 0 90px 0;
+        text-align: center;
+    }
+
+    .home-about ul {
+        list-style-type: none;
+        padding: 0 0 40px 18.5%;
+    }
+
+    .home-about .descirption {
+        text-align: center;
+    }
+
+    .home-about .book {
+        text-align: center;
+    }
+
+    /* ------------------------------------------------------------------home-service------------------------------------------------------------------ */
+    .home-services {
+        padding: 50px 50px;
+    }
+
+    .home-services .h2 {
+        font-size: 30px;
+        line-height: 40px;
+        max-width: 422px;
+    }
+
+    .our-team .h2 {
+        padding: 0 10px 40px;
+    }
+
+    .home-services .for-extra {
+        display: block;
+    }
+
+    .home-services .for-left {
+        padding: 0 10px 20px 0;
+    }
+
+    .home-services .for-right {
+        padding: 0 0px 20px 10px;
+    }
+
+    /* ------------------------------------------------------------------why-choose------------------------------------------------------------------ */
+
+    .why-choose .h2 {
+        font-size: 32px;
+        line-height: 42px;
+        padding: 0 0px 30px;
+    }
+
+    /* ------------------------------------------------------------------our-team------------------------------------------------------------------ */
+    .our-team img {
+        border-radius: 20px;
+    }
+
+    /* ------------------------------------------------------------------book-appointment------------------------------------------------------------------ */
+    .Appointment .h2 {
+        font-size: 42px;
+        line-height: 52px;
+        padding: 0 0 50px;
+    }
+
+    /* ------------------------------------------------------------------before-after------------------------------------------------------------------ */
+    .before-after .h5 {
+        font-size: 23px;
+        line-height: 33px;
+    }
+
+    .before-after .h2 {
+        font-size: 32px;
+        line-height: 42px;
+        padding: 0 0 30px;
+    }
+
+    /* ------------------------------------------------------------------testimonials------------------------------------------------------------------ */
+    .testimonials .review-card {
+        padding: 0px 0px 0px 0px;
+    }
+
+    /* ------------------------------------------------------------------footer------------------------------------------------------------------ */
+    .footer .quick {
+        font-size: 18px;
+        line-height: 28px;
+        padding: 20px 0 0;
+    }
+
+    .footer .quick-list li a {
+        font-size: 12px;
+        line-height: 22px;
+    }
+
+    .footer .right-part .address {
+        font-size: 12px;
+        line-height: 22px;
+    }
+
+    .footer .footer-bg {
+        left: 10%;
+        top: 26%;
+    }
+
+    /* -----------------------------------------------------------------about-page -----------------------------------------------------------------*/
+    /* -----------------------------------------------------------------about -----------------------------------------------------------------*/
+    .vision .for-bot {
+        padding-bottom: 20px;
+    }
+
+    /* -----------------------------------------------------------------trust -----------------------------------------------------------------*/
+    .trust .descirption {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .trust .h6 {
+        font-size: 20px;
+        line-height: 30px;
+        padding: 0 0 15px;
+    }
+
+    .trust .h2 {
+        font-size: 40px;
+        line-height: 50px;
+        padding: 30px 0px;
+    }
+
+    /* -----------------------------------------------------------------our-team -----------------------------------------------------------------*/
+    .our-team .descirption {
+        font-size: 19px;
+        line-height: 29px;
+        padding: 0 0 30px;
+    }
+
+    /* -----------------------------------------------------------------cta -----------------------------------------------------------------*/
+    .cta-sec .cta {
+        padding: 40px 40px;
+    }
+
+    /* -----------------------------------------------------------------works -----------------------------------------------------------------*/
+    .works {
+        padding: 50px 0;
+    }
+
+    .works .h5 {
+        font-size: 26px;
+        line-height: 34px;
+    }
+
+    .works .h2 {
+        font-size: 34px;
+        line-height: 44px;
+        padding: 20px 0 40px;
+    }
+
+    /* ---------------------------------------------------------------hero-contact--------------------------------------------------------------- */
+    /* ---------------------------------------------------------------get in touch--------------------------------------------------------------- */
+    .appointment-contact .descirption {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .appointment-contact .right-part .address-info {
+        padding: 0 61px 0 0;
+    }
+
+    .appointment-contact .for-padd {
+        padding: 0 16px 0 0;
+    }
+
+    /* ---------------------------------------------------------------cta--------------------------------------------------------------- */
+    /* ---------------------------------------------------------------map-location--------------------------------------------------------------- */
+    .loaction-sec .contact-map {
+        width: 100%;
+        height: 350px;
+    }
+
+    /* --------------------------------------------------------service-hero-------------------------------------------------------- */
+    .service-banner .service-hero {
+        padding: 55px 223px 80px 24px;
+    }
+
+    .service-banner .service-hero .h1 {
+        font-size: 38px;
+        line-height: 48px;
+        padding: 20px 0 0;
+    }
+
+    .home-services .main-service-card {
+        padding: 0 0px 0 0;
+    }
+
+    /* --------------------------------------------------------service-list-------------------------------------------------------- */
+    .vision .vis-mision .descirption {
+        text-align: left;
+    }
+}
+
+@media (max-width:576px) {
+
+    /* ------------------------------------------------------------------nav------------------------------------------------------------------ */
+    /* ------------------------------------------------------------------hero------------------------------------------------------------------ */
+    .hero .row .left-part {
+        padding: 40px 0 40px;
+    }
+
+    .hero .slider-part .hero-doctor {
+        bottom: -50px;
+        right: 19.5%;
+        max-width: 700px;
+        position: relative;
+    }
+
+    .hero .row .heading {
+        font-size: 34px;
+        line-height: 44px;
+        max-width: 456px;
+    }
+
+    .hero .your-smile {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .hero .slider-part .hero-doctor2 {
+        bottom: -76px;
+        right: -8%;
+        max-height: 535px;
+        position: relative;
+    }
+
+    .hero .row .left-part {
+        padding: 40px 0 20px;
+    }
+
+    .hero .slider-part .hero-doctor3 {
+        bottom: -80px;
+        right: 44%;
+        max-height: 100%;
+        max-width: 764px;
+        position: relative;
+    }
+
+    .hero .slider-part .hero-doctor4 {
+        bottom: -26px;
+        right: 38%;
+        max-height: 100%;
+        position: relative;
+        max-width: 700px;
+    }
+
+    /* ------------------------------------------------------------------home-about------------------------------------------------------------------ */
+    .home-about {
+        padding: 50px 25px;
+    }
+
+    .home-about .big-teeth {
+        max-height: 430px;
+        padding: 0 0 0 80px;
+    }
+
+    .home-about .small-teeth {
+        top: 210px;
+        left: 20px;
+        max-height: 208px;
+    }
+
+    .home-about .stars {
+        left: 37px;
+    }
+
+    .home-about ul {
+        list-style-type: none;
+        padding: 0 0 40px 18.5%;
+    }
+
+    .home-about .about-heading {
+        text-align: center;
+    }
+
+    .home-about h2 {
+        padding: 0 75px 0;
+        text-align: center;
+    }
+
+    .home-about .descirption {
+        text-align: center;
+    }
+
+    .home-about .book {
+        text-align: center;
+    }
+
+    /* ------------------------------------------------------------------home-service------------------------------------------------------------------ */
+    .home-services {
+        padding: 50px 35px;
+    }
+
+    .home-services .h2 {
+        font-size: 25px;
+        line-height: 35px;
+        max-width: 348px;
+    }
+
+    .home-services .General-Dentistry {
+        font-size: 23px;
+        line-height: 33px;
+        padding: 40px 0 14px 35px;
+    }
+
+    .home-services .book a {
+        font-size: 13px;
+        line-height: 23px;
+        padding: 10px 20px;
+    }
+
+    .home-services .descirption {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .home-services .generel-batch {
+        top: 175px;
+        max-height: 80px;
+    }
+
+    .home-services .sub-service-card {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .home-services .for-left {
+        padding: 0 0 20px;
+    }
+
+    .home-services .for-right:not(:last-child) {
+        padding: 0 0 20px;
+    }
+
+    .home-services .last {
+        padding: 0;
+    }
+
+    /* ------------------------------------------------------------------why-choose------------------------------------------------------------------ */
+    .why-choose .h2 {
+        font-size: 25px;
+        line-height: 35px;
+        padding: 0 0px 30px;
+    }
+
+    .why-choose .h2 {
+        font-size: 26px;
+        line-height: 36px;
+        padding: 0 0px 30px;
+    }
+
+    .why-choose .why-choose-img {
+        max-width: 400px;
+    }
+
+    .why-choose .left-part .stars {
+        bottom: -25px;
+        left: 359px;
+    }
+
+    .why-choose .right-part .quality {
+        font-size: 14px;
+        line-height: 24px;
+        text-align: left;
+    }
+
+    .why-choose .right-part .quantity {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    /* ------------------------------------------------------------------our-team------------------------------------------------------------------ */
+    .our-team .h2 {
+        padding: 0 0px 40px;
+    }
+
+    .our-team .h2 {
+        font-size: 52px;
+        line-height: 62px;
+    }
+
+    /* ------------------------------------------------------------------book-appointment------------------------------------------------------------------ */
+    .Appointment {
+        padding: 50px 35px;
+    }
+
+    .Appointment .h2 {
+        font-size: 36px;
+        line-height: 46px;
+        padding: 0 0 40px;
+    }
+
+    /* ------------------------------------------------------------------before-after------------------------------------------------------------------ */
+    .before-after {
+        padding: 50px 35px;
+    }
+
+    .before-after .info {
+        font-size: 16px;
+        line-height: 26px;
+        padding: 35px 0 0;
+    }
+
+    /* ------------------------------------------------------------------testimonials------------------------------------------------------------------ */
+    /* ------------------------------------------------------------------footer------------------------------------------------------------------ */
+    .footer {
+        padding: 40px 35px;
+    }
+
+    .footer .quick-list li a {
+        font-size: 19px;
+        line-height: 23px;
+    }
+
+    .footer .right-part .address {
+        font-size: 18px;
+        line-height: 28px;
+        max-width: 350px;
+    }
+
+    .footer .quick {
+        font-size: 18px;
+        line-height: 28px;
+        padding: 20px 0 16px;
+    }
+
+    .footer .descirption {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .footer .c-p {
+        font-size: 13px;
+        line-height: 23px;
+    }
+
+    /* -----------------------------------------------------------------about-page -----------------------------------------------------------------*/
+    /* -----------------------------------------------------------------about -----------------------------------------------------------------*/
+    /* -----------------------------------------------------------------trust -----------------------------------------------------------------*/
+    .trust {
+        padding: 50px 40px;
+    }
+
+    .trust .h2 {
+        font-size: 36px;
+        line-height: 46px;
+        padding: 20px 0px;
+    }
+
+    /* -----------------------------------------------------------------our-team -----------------------------------------------------------------*/
+    .our-team {
+        padding: 50px 40px;
+    }
+
+    /* -----------------------------------------------------------------cta -----------------------------------------------------------------*/
+    .cta-sec {
+        padding: 50px 30px;
+    }
+
+    .cta-sec .cta .p {
+        padding: 0px 10px 0 0;
+    }
+
+    .cta-sec .cta {
+        padding: 30px 30px;
+    }
+
+    /* -----------------------------------------------------------------works -----------------------------------------------------------------*/
+    .works {
+        padding: 40px 30px;
+    }
+
+    .works .steps .h5 {
+        font-size: 20px;
+        line-height: 30px;
+        max-width: 170px;
+    }
+
+    .works .steps .p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .works .for-sm {
+        padding-bottom: 20px;
+    }
+
+    /* ---------------------------------------------------------------hero-contact--------------------------------------------------------------- */
+    /* ---------------------------------------------------------------get in touch--------------------------------------------------------------- */
+
+    .Appointment .h2 {
+        font-size: 34px;
+        line-height: 44px;
+        padding: 0 0 30px;
+    }
+
+    .appointment-contact .descirption {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .appointment-contact .right-part .address-info {
+        padding: 0 30px 0 0;
+    }
+
+    .appointment-contact .right-part .stay {
+        font-size: 25px;
+        line-height: 35px;
+        padding: 20px 0 15px;
+    }
+
+    /* ---------------------------------------------------------------cta--------------------------------------------------------------- */
+    /* ---------------------------------------------------------------map-location--------------------------------------------------------------- */
+    .loaction-sec .h2 {
+        font-size: 43px;
+        line-height: 53px;
+        padding: 0px 0 35px;
+    }
+
+    .loaction-sec .contact-map {
+        width: 88%;
+        height: 350px;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .footer .footer-bg {
+        left: 8%;
+        top: 35%;
+        max-height: 35%;
+    }
+
+    /* --------------------------------------------------------service-hero-------------------------------------------------------- */
+    .service-banner .service-hero {
+        padding: 47px 119px 51px 0px;
+    }
+
+    .service-banner .service-hero .h1 {
+        font-size: 34px;
+        line-height: 44px;
+        padding: 20px 0 0;
+    }
+
+    .service-banner .service-hero .h5 {
+        font-size: 22px;
+        line-height: 32px;
+        padding: 10px 45px;
+        max-width: 305px;
+    }
+
+    /* --------------------------------------------------------service-list-------------------------------------------------------- */
+}
+
+@media (max-width:456px) {
+
+    /* ------------------------------------------------------------------nav------------------------------------------------------------------ */
+    /* ------------------------------------------------------------------hero------------------------------------------------------------------ */
+    .hero .slider-part .hero-doctor {
+        bottom: -71px;
+        right: 38%;
+    }
+
+    .hero .slider-part .hero-doctor2 {
+        bottom: -2px;
+        right: 9%;
+        max-height: 100%;
+        max-width: 483px;
+    }
+
+    .hero .slider-part .hero-doctor3 {
+        bottom: -41px;
+        right: 82%;
+        max-height: 100%;
+        max-width: 837px;
+    }
+
+    .hero .slider-part .hero-doctor4 {
+        bottom: -2px;
+        right: 71%;
+        max-height: 100%;
+        position: relative;
+        max-width: 742px;
+    }
+
+    /* ------------------------------------------------------------------home-about------------------------------------------------------------------ */
+    .home-about .big-teeth {
+        max-height: 336px;
+        padding: 0px 0 0 90px;
+    }
+
+    .home-about .small-teeth {
+        top: 140px;
+        left: 0px;
+        max-height: 190px;
+    }
+
+    .home-about h2 {
+        padding: 0 20px 0;
+    }
+
+    .home-about .descirption {
+        font-size: 16px;
+        line-height: 26px;
+        padding: 20px 0 20px;
+    }
+
+    .home-about ul {
+        padding: 0 0 40px 9%;
+    }
+
+    /* ------------------------------------------------------------------home-service------------------------------------------------------------------ */
+    .home-services .h2 {
+        font-size: 18px;
+        line-height: 28px;
+        max-width: 252px;
+    }
+
+    .home-services .book a {
+        font-size: 12px;
+        line-height: 22px;
+        padding: 10px 8px;
+    }
+
+    .home-services .h3 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+
+    /* ------------------------------------------------------------------why-choose------------------------------------------------------------------ */
+    .why-choose {
+        padding: 50px 35px;
+    }
+
+    .why-choose .h5 {
+        font-size: 22px;
+        line-height: 32px;
+        text-align: center;
+    }
+
+    .why-choose .h2 {
+        font-size: 19px;
+        line-height: 29px;
+        padding: 0 0px 30px;
+        text-align: center;
+    }
+
+    .why-choose .why-choose-img {
+        max-width: 340px;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .why-choose .left-part .stars {
+        bottom: -25px;
+        left: 302px;
+        max-width: 100px;
+    }
+
+    .why-choose .descirption {
+        font-size: 16px;
+        line-height: 26px;
+        padding: 40px 0px 26px 0;
+    }
+
+    /* ------------------------------------------------------------------our-team------------------------------------------------------------------ */
+    .our-team {
+        padding: 50px 35px;
+    }
+
+    .our-team .h5 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+
+    .our-team .h2 {
+        font-size: 42px;
+        line-height: 52px;
+        padding: 0 0 40px;
+    }
+
+    /* ------------------------------------------------------------------book-appointment------------------------------------------------------------------ */
+    .Appointment .h5 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+
+    .Appointment .h2 {
+        font-size: 28px;
+        line-height: 38px;
+        padding: 0 0 30px;
+    }
+
+    /* ------------------------------------------------------------------before-after------------------------------------------------------------------ */
+    .before-after .h5 {
+        font-size: 17px;
+        line-height: 27px;
+    }
+
+    .before-after .h2 {
+        font-size: 25px;
+        line-height: 35px;
+        padding: 0 0 30px;
+    }
+
+    .before-after .col-4 img {
+        max-width: 70px;
+    }
+
+    /* ------------------------------------------------------------------testimonials------------------------------------------------------------------ */
+    .testimonials .h2 {
+        font-size: 30px;
+        line-height: 40px;
+        padding: 0 0 50px;
+    }
+
+    .testimonials .h5 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+
+    .testimonials .sub-review-card .review-info {
+        font-size: 16px;
+        line-height: 26px;
+        padding: 0 0px 30px 0;
+    }
+
+    /* ------------------------------------------------------------------footer------------------------------------------------------------------ */
+    .footer .footer-bg {
+        left: 8%;
+        top: 37%;
+        max-height: 27%;
+    }
+
+    /* -----------------------------------------------------------------about-page -----------------------------------------------------------------*/
+    /* -----------------------------------------------------------------about -----------------------------------------------------------------*/
+    .home-about {
+        padding: 40px 25px;
+    }
+
+    /* -----------------------------------------------------------------trust -----------------------------------------------------------------*/
+    .trust {
+        padding: 40px 25px;
+    }
+
+    .trust .h2 {
+        font-size: 26px;
+        line-height: 36px;
+        padding: 15px 0px;
+    }
+
+    .trust .descirption {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    /* -----------------------------------------------------------------our-team -----------------------------------------------------------------*/
+    .our-team {
+        padding: 40px 25px;
+    }
+
+    .our-team .h2 {
+        font-size: 36px;
+        line-height: 46px;
+        padding: 0 0 20px;
+    }
+
+    .our-team .descirption {
+        font-size: 16px;
+        line-height: 26px;
+        padding: 0 0 20px;
+    }
+
+    /* -----------------------------------------------------------------cta -----------------------------------------------------------------*/
+    .cta-sec {
+        padding: 40px 25px;
+    }
+
+    .cta-sec .cta {
+        padding: 30px 20px;
+        justify-content: center;
+    }
+
+    .cta-sec .cta .p {
+        font-size: 16px;
+        line-height: 26px;
+        width: 100% !important;
+        text-align: center;
+    }
+
+    .cta-sec .cta .book {
+        width: 100% !important;
+    }
+
+    .cta-sec .cta .book a {
+        font-size: 14px;
+        line-height: 24px;
+        float: none;
+        display: block;
+        margin: 20px auto 0;
+    }
+
+    /* ---------------------------------------------------------------hero-contact--------------------------------------------------------------- */
+    /* ---------------------------------------------------------------get in touch--------------------------------------------------------------- */
+    .appointment-contact .right-part .address-info {
+        font-size: 16px;
+        line-height: 26px;
+        padding: 0 0 0;
+    }
+
+    .appointment-contact .right-part .clinic-hours {
+        padding: 30px 25px;
+    }
+
+    .appointment-contact .right-part pre {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .appointment-contact .right-part .stay {
+        font-size: 22px;
+        line-height: 32px;
+        padding: 15px 0 15px;
+    }
+
+    .appointment-contact .right-part .add {
+        font-size: 20px;
+        line-height: 30px;
+        padding: 0 0 10px;
+    }
+
+    .Appointment {
+        padding: 40px 35px;
+    }
+
+    .Appointment .h2 {
+        padding: 0 0 15px;
+    }
+
+    /* ---------------------------------------------------------------cta--------------------------------------------------------------- */
+    /* ---------------------------------------------------------------map-location--------------------------------------------------------------- */
+    .loaction-sec {
+        padding: 40px 10px;
+    }
+
+    .loaction-sec .contact-map {
+        width: 88%;
+        height: 246px;
+    }
+
+    /* --------------------------------------------------------service-hero-------------------------------------------------------- */
+    .service-banner .service-hero {
+        padding: 21px 119px 46px 0px;
+    }
+
+    .service-banner .service-hero .h5 {
+        font-size: 16px;
+        line-height: 26px;
+        padding: 10px 45px;
+        max-width: 264px;
+    }
+
+    .service-banner .service-hero .h1 {
+        font-size: 28px;
+        line-height: 38px;
+        padding: 15px 0 0;
+    }
+
+    /* --------------------------------------------------------service-list-------------------------------------------------------- */
+}
+
+@media (max-width:320px) {
+
+    /* ------------------------------------------------------------------nav------------------------------------------------------------------ */
+    .navbar {
+        padding: 20px 30px;
+    }
+
+    .navbar .nav-logo {
+        max-width: 150px;
+    }
+
+    /* ------------------------------------------------------------------hero------------------------------------------------------------------ */
+    .hero .your-smile {
+        font-size: 20px;
+        line-height: 30px;
+        max-width: 225px;
+        text-align: center;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .hero .slider-part .row {
+        padding: 9px 0;
+    }
+
+    .hero .row .heading {
+        font-size: 27px;
+        line-height: 37px;
+        max-width: 456px;
+        text-align: center;
+    }
+
+    .hero .buttons {
+        gap: 10px;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .hero .slider-part .hero-doctor4,
+    .hero .slider-part .hero-doctor,
+    .hero .slider-part .hero-doctor2,
+    .hero .slider-part .hero-doctor3 {
+        display: none;
+    }
+
+    .hero .book a {
+        padding: 10px 10px;
+        font-size: 12px;
+        line-height: 22px;
+        color: var(--blue-primary);
+        background-color: white;
+    }
+
+    .hero .buttons a {
+        font-size: 12px;
+        line-height: 22px;
+        background-color: white;
+        color: var(--blue-primary);
+        border: white;
+    }
+
+    .hero .row .descirption {
+        padding: 20px 0px 60px 0;
+        text-align: center;
+    }
+
+    .hero .row .left-part {
+        padding: 40px 0 33px;
+    }
+
+    /* ------------------------------------------------------------------home-about------------------------------------------------------------------ */
+    .home-about .big-teeth {
+        max-height: 300px;
+        padding: 0px 0 0 40px;
+        position: relative;
+        left: 3%;
+    }
+
+    .home-about .small-teeth {
+        top: 124px;
+        left: 0px;
+        max-height: 120px;
+    }
+
+    .home-about .stars {
+        left: 17px;
+        max-width: 59px;
+    }
+
+    .home-about .about-heading {
+        text-align: center;
+        font-size: 21px;
+        line-height: 31px;
+    }
+
+    .home-about h2 {
+        padding: 0px;
+        font-size: 25px;
+        line-height: 35px;
+        max-width: 250px;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .home-about ul li {
+        font-size: 13px;
+        line-height: 23px;
+    }
+
+    .home-about ul {
+        padding: 0 0 40px 1%;
+    }
+
+    .home-about {
+        padding: 30px 18px;
+    }
+
+    .home-about .descirption {
+        font-size: 14px;
+        line-height: 24px;
+        padding: 20px 0 20px;
+    }
+
+    /* ------------------------------------------------------------------home-service------------------------------------------------------------------ */
+    .home-services {
+        padding: 40px 25px;
+    }
+
+    .home-services .h2 {
+        font-size: 13px;
+        line-height: 23px;
+    }
+
+    .home-services .generel-batch {
+        top: 123px;
+        max-height: 65px;
+    }
+
+    .home-services .book a {
+        font-size: 9px;
+        line-height: 19px;
+        padding: 10px 4px;
+    }
+
+    .home-services .General-Dentistry {
+        font-size: 20px;
+        line-height: 30px;
+        padding: 40px 0 14px 25px;
+    }
+
+    .home-services .descirption {
+        font-size: 16px;
+        line-height: 26px;
+        padding: 00 15px 20px 25px;
+    }
+
+    .home-services .more {
+        padding: 0 0 30px 25px;
+    }
+
+    /* ------------------------------------------------------------------why-choose------------------------------------------------------------------ */
+    .why-choose .h2 {
+        font-size: 14px;
+        line-height: 24px;
+        padding: 0 0px 20px;
+    }
+
+    .why-choose .h5 {
+        font-size: 15px;
+        line-height: 25px;
+        padding: 0 0 15px;
+    }
+
+    .why-choose .why-choose-img {
+        max-width: 210px;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .why-choose .descirption {
+        font-size: 14px;
+        line-height: 24px;
+        padding: 25px 0px 25px 0;
+    }
+
+    .why-choose {
+        padding: 50px 20px;
+    }
+
+    .why-choose .right-part .quantity {
+        font-size: 30px;
+        line-height: 40px;
+        padding: 0 0 5px;
+    }
+
+    .why-choose ul li {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .why-choose ul li .checkmark {
+        margin: 0 8px 0 0;
+    }
+
+    .why-choose ul {
+        padding: 20px 0 35px;
+    }
+
+    /* ------------------------------------------------------------------our-team------------------------------------------------------------------ */
+    .our-team .h5 {
+        font-size: 20px;
+        line-height: 30px;
+        padding: 0 0 10px;
+    }
+
+    /* ------------------------------------------------------------------book-appointment------------------------------------------------------------------ */
+    .Appointment .h5 {
+        font-size: 16px;
+        line-height: 26px;
+        padding: 0 0 15px;
+    }
+
+    .Appointment .h2 {
+        font-size: 20px;
+        line-height: 30px;
+        padding: 0 0 25px;
+    }
+
+    .Appointment .right-part {
+        padding: 0;
+    }
+
+    .Appointment .notes {
+        padding: 0 0 20px;
+    }
+
+    .Appointment .right-part .clinic-hours .timing {
+        padding: 0 15px;
+    }
+
+    .Appointment .right-part .clinic-hours .line {
+        margin: 15px 0;
+    }
+
+    .Appointment .right-part .clinic-hours .clinic {
+        font-size: 15px;
+        line-height: 26px;
+        padding: 0 0 0 15px;
+    }
+
+    .Appointment .right-part .clinic-hours .timing p {
+        font-size: 13px;
+        line-height: 23px;
+    }
+
+    .Appointment .right-part .call-part {
+        gap: 10px;
+        padding: 15px 0 0;
+    }
+
+    .Appointment {
+        padding: 40px 25px;
+    }
+
+    .Appointment .right-part .callpart-right .emergency {
+        font-size: 13px;
+        line-height: 23px;
+    }
+
+    .Appointment .right-part .callpart-right .smile,
+    .Appointment .right-part .call-part .phone-num {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .Appointment .right-part .call-part .phone i {
+        padding: 23px 10px;
+    }
+
+    /* ------------------------------------------------------------------before-after------------------------------------------------------------------ */
+    .before-after {
+        padding: 40px 25px;
+    }
+
+    .before-after .h2 {
+        font-size: 18px;
+        line-height: 28px;
+        padding: 0 0 25px;
+    }
+
+    .before-after .col-4 img {
+        max-width: 50px;
+    }
+
+    .before-after .info {
+        font-size: 14px;
+        line-height: 24px;
+        padding: 25px 0 0;
+    }
+
+    /* ------------------------------------------------------------------testimonials------------------------------------------------------------------ */
+    .testimonials {
+        padding: 40px 25px;
+    }
+
+    .testimonials .h2 {
+        font-size: 20px;
+        line-height: 30px;
+        padding: 0 0 35px;
+    }
+
+    .testimonials .sub-review-card {
+        padding: 20px 10px;
+    }
+
+    .testimonials .sub-review-card .review-line {
+        font-size: 16px;
+        line-height: 26px;
+        padding: 10px 0;
+    }
+
+    .testimonials .sub-review-card .review-info {
+        font-size: 13px;
+        line-height: 23px;
+        padding: 0 0px 20px 0;
+    }
+
+    .testimonials .satisfy {
+        font-size: 13px;
+        line-height: 23px;
+    }
+
+    .testimonials .h6 {
+        font-size: 17px;
+        line-height: 27px;
+    }
+
+    .testimonials img {
+        max-width: 50px;
+    }
+
+    /* ------------------------------------------------------------------footer------------------------------------------------------------------ */
+    .footer {
+        padding: 40px 25px;
+    }
+
+    .footer .map {
+        max-width: 250px;
+    }
+
+    .footer .quick-list li a {
+        font-size: 13px;
+        line-height: 23px;
+    }
+
+    .footer .quick-list li:not(:last-child) {
+        padding: 0 0 10px;
+    }
+
+    .footer .quick-list {
+        padding: 0px 0;
+    }
+
+    .footer .quick {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .footer .right-part .address {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .footer .footer-line {
+        margin: 30px 0 30px;
+    }
+
+    /* -----------------------------------------------------------------about-page -----------------------------------------------------------------*/
+    /* -----------------------------------------------------------------about -----------------------------------------------------------------*/
+    /* -----------------------------------------------------------------trust -----------------------------------------------------------------*/
+    .trust {
+        padding: 30px 25px;
+    }
+
+    .trust .h2 {
+        font-size: 18px;
+        line-height: 28px;
+        padding: 10px 0px;
+    }
+
+    .trust .descirption {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .trust .h6 {
+        font-size: 16px;
+        line-height: 26px;
+        padding: 0 0 10px;
+    }
+
+    /* -----------------------------------------------------------------our-team -----------------------------------------------------------------*/
+    .our-team .h2 {
+        font-size: 26px;
+        line-height: 36px;
+        padding: 0 0 20px;
+    }
+
+    .our-team {
+        padding: 30px 20px;
+    }
+
+    .our-team .descirption {
+        font-size: 15px;
+        line-height: 25px;
+        padding: 0 0px 15px;
+    }
+
+    /* -----------------------------------------------------------------cta -----------------------------------------------------------------*/
+    .cta-sec .cta .p {
+        font-size: 15px;
+        line-height: 25px;
+        padding: 0;
+    }
+
+    .cta-sec {
+        padding: 30px 20px;
+    }
+
+    /* -----------------------------------------------------------------works -----------------------------------------------------------------*/
+    .works .steps .p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .works .steps .h5 {
+        font-size: 18px;
+        line-height: 28px;
+        max-width: 170px;
+    }
+
+    .works .h2 {
+        font-size: 30px;
+        line-height: 40px;
+        padding: 20px 0 30px;
+    }
+
+    .works .h5 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    /* ---------------------------------------------------------------hero-contact--------------------------------------------------------------- */
+    /* ---------------------------------------------------------------get in touch--------------------------------------------------------------- */
+    .Appointment {
+        padding: 30px 15px;
+    }
+
+    .appointment-contact .right-part pre {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .appointment-contact .right-part .clinic-hours {
+        padding: 20px 15px;
+    }
+
+    .appointment-contact .right-part .clinic-hours .clinic {
+        padding: 0 0 0 0px;
+    }
+
+    .appointment-contact .right-part .address-info {
+        font-size: 14px;
+        line-height: 24px;
+        padding: 0 0 0;
+    }
+
+    .appointment-contact .descirption {
+        font-size: 15px;
+        line-height: 25px;
+        padding: 0 0 25px;
+    }
+
+    .Appointment form .form-label {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .Appointment .h2 {
+        font-size: 18px;
+        line-height: 28px;
+        padding: 0 0 15px;
+    }
+
+    .appointment-contact .right-part .refrence-contact a {
+        padding: 5px 11px;
+    }
+
+    .footer .footer-bg {
+        left: 5%;
+        top: 39%;
+        max-height: 19%;
+    }
+
+    /* ---------------------------------------------------------------cta--------------------------------------------------------------- */
+    /* ---------------------------------------------------------------map-location--------------------------------------------------------------- */
+    .loaction-sec .h2 {
+        font-size: 38px;
+        line-height: 48px;
+        padding: 0px 0 25px;
+    }
+
+    /* --------------------------------------------------------service-hero-------------------------------------------------------- */
+    .service-banner .service-hero .h5 {
+        font-size: 12px;
+        line-height: 22px;
+        padding: 5px 14px;
+        max-width: 279px;
+    }
+
+    .service-banner .service-hero .h1 {
+        font-size: 20px;
+        line-height: 30px;
+        padding: 15px 0 0;
+    }
+
+    .service-banner .service-hero {
+        padding: 16px 121px 19px 0px;
+    }
+
+    /* --------------------------------------------------------service-list-------------------------------------------------------- */
+    .vision .vis-mision .h5 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+}
+
+@media (max-width:269px) {
+
+    /* --------------------------------------------------------home-page-------------------------------------------------------- */
+    /* --------------------------------------------------------navbar-------------------------------------------------------- */
+    .navbar {
+        padding: 10px 10px;
+    }
+
+    /* --------------------------------------------------------hero-------------------------------------------------------- */
+    .hero .slider-part .hero-doctor4, .hero .slider-part .hero-doctor, .hero .slider-part .hero-doctor2, .hero .slider-part .hero-doctor3 {
+        display: none;
+    }
+    .hero .row .descirption {
+        padding: 20px 15px 60px;
+        text-align: center;
+    }
+
+    .hero .your-smile {
+        font-size: 18px;
+        line-height: 28px;
+        max-width: 200px;
+    }
+
+    .hero .row .heading {
+        font-size: 20px;
+        line-height: 30px;
+        padding: 0 20px;
+    }
+
+    .hero .row .heading {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .hero .buttons {
+        gap: 5px;
+        flex-direction: row;
+    }
+    .hero .buttons a {
+        font-size: 10px;
+        line-height: 20px;
+        padding: 10px;
+    }
+    /* --------------------------------------------------------hero-about-------------------------------------------------------- */
+    .home-about {
+        padding: 20px 15px;
+    }
+
+    .home-about .small-teeth {
+        top: 86px;
+        left: 0px;
+        max-height: 103px;
+    }
+
+    .home-about .about-heading {
+        text-align: center;
+        font-size: 20px;
+        line-height: 30px;
+        padding: 0;
+    }
+
+    .home-about h2 {
+        padding: 10px 0 0;
+        font-size: 21px;
+        line-height: 31px;
+    }
+
+    .home-about .descirption {
+        font-size: 15px;
+        line-height: 25px;
+        padding: 10px 0 10px;
+    }
+
+    .home-about ul li {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .home-about ul li .checkmark {
+        color: var(--blue-primary);
+        margin: 0 5px 0 0;
+    }
+
+    .home-about .book a {
+        font-size: 14px;
+        line-height: 24px;
+        padding: 10px 15px;
+    }
+
+    /* --------------------------------------------------------home-service-------------------------------------------------------- */
+    .home-services .h3 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .home-services .frow div {
+        width: 100%;
+    }
+
+    .home-services .h2 {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .home-services .book {
+        margin: 0 0 20px;
+    }
+
+    .home-services .book a {
+        font-size: 13px;
+        line-height: 23px;
+        padding: 8px 11px;
+        display: block;
+    }
+
+    .home-services .generel-batch {
+        top: 100px;
+        max-height: 56px;
+    }
+
+    .home-services {
+        padding: 20px 25px;
+    }
+
+    /* --------------------------------------------------------why-choose-us-------------------------------------------------------- */
+    .why-choose {
+        padding: 20px 15px;
+    }
+
+    .why-choose .h5 {
+        font-size: 14px;
+        line-height: 24px;
+        padding: 0 0 10px;
+    }
+
+    .why-choose .h2 {
+        font-size: 13px;
+        line-height: 23px;
+        padding: 0 0px 10px;
+    }
+
+    .why-choose .right-part .quantity {
+        font-size: 25px;
+        line-height: 35px;
+        padding: 0 0 5px;
+    }
+
+    .why-choose .right-part .quality {
+        font-size: 12px;
+        line-height: 22px;
+    }
+
+    .why-choose .book a {
+        font-size: 14px;
+        line-height: 24px;
+        padding: 10px 15px;
+    }
+
+    /* --------------------------------------------------------our team-------------------------------------------------------- */
+    .our-team {
+        padding: 20px 15px;
+    }
+
+    .our-team .h2 {
+        font-size: 21px;
+        line-height: 31px;
+        padding: 0 0 10px;
+    }
+
+    .our-team .h6 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .our-team .doc-type {
+        font-size: 17px;
+        line-height: 27px;
+    }
+
+    /* --------------------------------------------------------Appointment-------------------------------------------------------- */
+    .Appointment {
+        padding: 20px 15px;
+    }
+
+    .Appointment .h2 {
+        font-size: 16px;
+        line-height: 26px;
+        padding: 0 0 10px;
+    }
+
+    .Appointment .appoint-info {
+        font-size: 14px;
+        line-height: 24px;
+        padding: 0 0 15px;
+    }
+
+    .Appointment .right-part .clinic-hours .timing {
+        padding: 0 10px;
+    }
+
+    .Appointment .right-part .callpart-right .emergency {
+        font-size: 11px;
+        line-height: 21px;
+        letter-spacing: 4px;
+    }
+
+    /* --------------------------------------------------------before-after-------------------------------------------------------- */
+    .before-after {
+        padding: 20px 15px;
+    }
+
+    .before-after .h5 {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .before-after .h2 {
+        font-size: 16px;
+        line-height: 26px;
+        padding: 0 0 15px;
+    }
+
+    .before-after .col-4 img {
+        max-width: 40px;
+    }
+
+    /* --------------------------------------------------------testimonials-------------------------------------------------------- */
+    .testimonials .h5 {
+        font-size: 20px;
+        line-height: 30px;
+        padding: 0 0 20px;
+    }
+
+    .testimonials .h2 {
+        font-size: 18px;
+        line-height: 28px;
+        padding: 0 0 25px;
+    }
+
+    .testimonials .sub-review-card .review-line {
+        font-size: 12px;
+        line-height: 22px;
+        padding: 10px 0;
+    }
+
+    .testimonials .review-card .star-review {
+        font-size: 14px;
+    }
+
+    .testimonials .review-card .star-num {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .testimonials {
+        padding: 20px 10px;
+    }
+
+    /* --------------------------------------------------------footer-------------------------------------------------------- */
+    .footer {
+        padding: 20px 15px;
+    }
+
+    .footer .map {
+        width: 100%;
+    }
+    /* ----------------------------------------------------------about-us---------------------------------------------------------- */
+    .vision .vis-mision .descirption {
+        font-size: 12px;
+        line-height: 22px;
+        padding: 10px 0 0;
+    }
+    .home-about ul {
+        padding: 0 0 0px 1%;
+    }
+    .vision .vis-mision {
+        padding: 20px;
+    }
+    .vision .vis-mision .logo-vis-mis {
+        max-width: 45px;
+    }
+    .vision .vis-mision .for-gap{
+        gap: 10px !important;
+    }
+    .vision .vis-mision .h5 {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    .trust {
+        padding: 20px 15px;
+    }
+    .trust .h6 {
+        font-size: 15px;
+        line-height: 25px;
+        padding: 0 0 10px;
+    }
+    .trust .descirption:not(:last-child) {
+        padding: 0 0 10px;
+    }
+    .trust .descirption {
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .our-team .descirption {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .our-team .h2 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .our-team .h6 {
+        font-size: 18px;
+        line-height: 28px;
+        padding: 20px 0 5px;
+    }
+    .cta-sec {
+        padding: 20px 15px;
+    }
+    .works {
+        padding: 20px 15px;
+    }
+    .works .h5 {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    .works .h2 {
+        font-size: 26px;
+        line-height: 36px;
+        padding: 20px 0 25px;
+    }
+    /* -------------------------------------------------------our-service------------------------------------------------------- */
+    .service-banner .service-hero {
+        padding: 16px 71px 19px 0px;
+    }
+    .service-sec .head-info {
+        font-size: 12px;
+        line-height: 22px;
+        padding: 0px 0 15px;
+    }
+    .home-services .descirption {
+        font-size: 15px;
+        line-height: 25px;
+        padding: 00 0px 20px 25px;
+    }
+    /* -------------------------------------------------------contact-us------------------------------------- */
+    .appointment-contact .right-part .clinic-hours {
+        padding: 20px 10px;
+    }
+    .appointment-contact .right-part pre {
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .appointment-contact .right-part .clinic-hours .clinic {
+        padding: 0 0 10px 0px;
+    }
+    .appointment-contact .right-part .clinic-add {
+        padding: 0 0 15px;
+    }
+    .appointment-contact .right-part .stay {
+        font-size: 20px;
+        line-height: 30px;
+        padding: 15px 0 15px;
+    }
+    .appointment-contact .right-part .refrence-contact a {
+        padding: 5px 10px;
+    }
+    .loaction-sec {
+        padding: 25px 10px;
+    }
+    .loaction-sec .h2 {
+        font-size: 36px;
+        line-height: 46px;
+        padding: 0px 0 15px;
+    }
+}
+
+/* --------------------------------------------------------service-hero-------------------------------------------------------- */
+/* --------------------------------------------------------service-list-------------------------------------------------------- */
